@@ -13,6 +13,8 @@ import numpy as np
 from sklearn.model_selection import *
 import statsmodels.api as sm
 from sklearn.linear_model import LinearRegression, Lasso
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error
 
 
 # import data frame
@@ -48,6 +50,7 @@ cross_val_score(estimator=lr_model, X=X_train, y=y_train, scoring = 'neg_mean_ab
  
 # lasso regression to account for abundance of one hot features
 lasso = Lasso()
+lasso.fit(X_train, y_train)
 np.mean(cross_val_score(lasso, X_train, y_train, scoring = 'neg_mean_absolute_error', cv=3))
 
 # find best alpha
@@ -60,6 +63,30 @@ for i in range(1, 100):
     error.append(np.mean(cross_val_score(lasso_a, X_train, y_train, scoring = 'neg_mean_absolute_error', cv=3)))
     
 plt.plot(alpha, error)
+
+alpha_max = alpha[np.argmax(error)] 
+
+# random forest
+rf = RandomForestRegressor()
+np.mean(cross_val_score(rf, X_train, y_train, scoring = 'neg_mean_absolute_error', cv=3))
+
+# select best rf through GridSearchCV
+params = {'n_estimators': range(10, 50, 10), 'criterion': ('mse', 'mae'), 'max_features': ('auto', 'sqrt', 'log2')}
+gs = GridSearchCV(rf, params, scoring = 'neg_mean_absolute_error', cv=3)
+gs.fit(X_train, y_train)
+
+best_s = gs.best_score_
+best_e = gs.best_estimator_
+
+# test ensembles
+pred_lr = lr_model.predict(X_test)
+pred_lasso = lasso.predict(X_test)
+pred_rf = best_e.predict(X_test)
+
+mean_absolute_error(y_test, pred_lr)
+mean_absolute_error(y_test, pred_lasso)
+mean_absolute_error(y_test, pred_rf)
+
     
     
     
