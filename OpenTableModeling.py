@@ -100,6 +100,8 @@ with open(filename, 'rb') as pickled:
     model = data['model']
     
 model.predict(X_test.iloc[0].values.reshape(1, -1))
+
+list(X_test.iloc[0])
     
     
     
