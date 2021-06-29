@@ -67,7 +67,7 @@ plt.plot(alpha, error)
 alpha_max = alpha[np.argmax(error)] 
 
 # random forest
-rf = RandomForestRegressor()
+rf = RandomForestRegressor(random_state=42)
 np.mean(cross_val_score(rf, X_train, y_train, scoring = 'neg_mean_absolute_error', cv=3))
 
 # select best rf through GridSearchCV
@@ -87,6 +87,19 @@ mean_absolute_error(y_test, pred_lr)
 mean_absolute_error(y_test, pred_lasso)
 mean_absolute_error(y_test, pred_rf)
 
+
+# export model to pickle
+import pickle
+filename = 'model.sav'
+pickl = {'model': best_e}
+pickle.dump(pickl, open(filename, 'wb'))
+
+# check model works taking input
+with open(filename, 'rb') as pickled:
+    data = pickle.load(pickled)
+    model = data['model']
+    
+model.predict(X_test.iloc[0].values.reshape(1, -1))
     
     
     
