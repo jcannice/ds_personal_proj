@@ -3,7 +3,7 @@
 """
 Created on Tue Jun 29 15:05:54 2021
 
-@author: joe
+Py: Run request.
 """
 
 import requests

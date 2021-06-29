@@ -3,7 +3,7 @@
 """
 Created on Tue Jun 29 14:40:07 2021
 
-@author: joe
+Py: Test input for request.
 """
 
 data_in = [670.0,
