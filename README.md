@@ -67,5 +67,11 @@ I wanted to make sure that my model was useful and accessible to others by build
 
 ## Next Steps
 **Data Engineering**  
-While I scraped as much data as I could from the OpenTable site, I think many other features could be pulled and optimized from other sources. These might include health code scores/violations by restaurant from county data, 
+While I scraped as much data as I could from the OpenTable site, I think many other features could be pulled and optimized from other sources. These might include health code scores/violations by restaurant from county data, yelp rating, and population size. Scraping the number of bookings a restaurant has recieved in a given day may also prove to be an interesting and potentially useful feature, although this metric changes throughout the day -- a longer term analysis would be needed to produce average booking numbers for each restaurant. Finally the cuisine type feature included over 100 types which could be reduced to much fewer to remove overlap.
+
+**Model Selection**  
+While lasso and random forest regression produced sufficient prediction results, exploring other model types such as support vector machines and other normalizing regressors would be worthwhile.
+
+
+### Thanks for stopping by :)
 
