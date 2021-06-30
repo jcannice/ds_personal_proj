@@ -59,7 +59,7 @@ The models include multiple linear regression, lasso regression, and a random fo
 Lasso regression and random forest performed far better than the standard OLS model. This is due to the dummy variable induced sparsity of the data benefitting from the normalizing effect.
 
 **Multiple Linear Regression:** ~1.9  
-**Lasso Regression:** ~0.25
+**Lasso Regression:** ~0.25  
 **Random Forest by GridSearchCV:** ~0.24
 
 ## API Production
