@@ -40,4 +40,32 @@ I conducted much of the cleaning in the scraping process:
 ## Exploratory Data Analysis
 I learned from looking at the distribution of ratings that OpenTable prevents restaurants from recieving less than 3 stars. This differs greatly from other review sites such as Yelp and Google Reviews.
 
-![alt text](
+![alt text](https://github.com/jcannice/ds_personal_proj/blob/main/Ratings%20Distribution.png)
+
+This heat map shows that Review Count, Position on list, and Price are correlated with Rating.
+![alt text](https://github.com/jcannice/ds_personal_proj/blob/main/Heatmap.png)
+
+Unsurprising San Francisco hosts the greatest amount of restaurants.  
+![alt text](https://github.com/jcannice/ds_personal_proj/blob/main/City%20Count.png)
+
+Italian Cuisine and American cuisines are the most represented Bay Area businesses on OpenTable.  
+![alt text](https://github.com/jcannice/ds_personal_proj/blob/main/Cuisine%20Count.png)
+
+## Model Fitting & Performance
+Since my data included categorical features, I converted them into dummy variables. I then made a 75/25 training/test split.  
+I built and compared 3 models using a cross validation by MAE scorer. An MAE measure provided easily interpretable results given the 3-5 rating prediction. 
+The models include multiple linear regression, lasso regression, and a random forest.
+
+Lasso regression and random forest performed far better than the standard OLS model. This is due to the dummy variable induced sparsity of the data benefitting from the normalizing effect.
+
+**Multiple Linear Regression:** ~1.9  
+**Lasso Regression:** ~0.25
+**Random Forest by GridSearchCV:** ~0.24
+
+## API Production
+I wanted to make sure that my model was useful and accessible to others by building a Flask API endpoint which takes in a client's request with a list of values from a restaurant listing and returns a predicted rating.
+
+## Next Steps
+**Data Engineering**  
+While I scraped as much data as I could from the OpenTable site, I think many other features could be pulled and optimized from other sources. These might include health code scores/violations by restaurant from county data, 
+
