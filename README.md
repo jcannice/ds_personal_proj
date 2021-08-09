@@ -65,6 +65,9 @@ Lasso regression and random forest performed far better than the standard OLS mo
 ## API Production
 I wanted to make sure that my model was useful and accessible to others by building a Flask API endpoint which takes in a client's request with a list of values from a restaurant listing and returns a predicted rating.
 
+## Web Application
+To further the interpretability of the model, I build a simple web application using streamlit. Users can input their own feature parameters to guage the predicted success of their restaurant. The app is currently in deployment and will be available shortly here!
+
 ## Next Steps
 **Data Engineering**  
 While I scraped as much data as I could from the OpenTable site, I think many other features could be pulled and optimized from other sources. These might include health code scores/violations by restaurant from county data, yelp rating, and population size. Scraping the number of bookings a restaurant has recieved in a given day may also prove to be an interesting and potentially useful feature, although this metric changes throughout the day -- a longer term analysis would be needed to produce average booking numbers for each restaurant. Finally the cuisine type feature included over 100 types which could be reduced to much fewer to remove overlap.
