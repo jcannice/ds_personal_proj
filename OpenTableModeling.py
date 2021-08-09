@@ -24,10 +24,11 @@ print(bay_df.columns)
 
 # select feature columns
 model_df = bay_df[['Rating', 'City', 'Review Count', 'Promoted',
-                   'Price', 'Cuisine', 'Median Household Income (USD)']]
+                   'Price', 'Position', 'Cuisine', 'Median Household Income (USD)']]
 
 # convert to dummy variables
 dummy_df = pd.get_dummies(model_df)
+
 
 # train test split
 X = dummy_df.drop('Rating', axis=1)
@@ -102,6 +103,7 @@ with open(filename, 'rb') as pickled:
 model.predict(X_test.iloc[0].values.reshape(1, -1))
 
 list(X_test.iloc[0])
+print(X_test.columns)
     
     
     

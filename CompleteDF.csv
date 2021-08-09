@@ -1,0 +1,1070 @@
+,Rating,City,Review Count,Promoted,Price,Cuisine,Median Household Income (USD)
+0,4.8,Alameda,2607.0,0.0,3.0,Contemporary Italian,104756
+1,4.8,Alameda,254.0,0.0,2.0,Pizzeria,104756
+2,4.6,Alameda,131.0,0.0,3.0,Contemporary American,104756
+3,4.8,Alameda,118.0,0.0,2.0,Cocktail Bar,104756
+4,4.7,Alameda,289.0,0.0,3.0,Mediterranean,104756
+5,4.3,Alameda,1373.0,0.0,2.0,German,104756
+6,4.3,Alameda,50.0,0.0,2.0,American,104756
+7,4.6,Alameda,354.0,0.0,2.0,Mediterranean,104756
+8,4.3,Alameda,856.0,0.0,2.0,Californian,104756
+9,4.3,Alameda,269.0,0.0,2.0,Mediterranean,104756
+10,4.3,Alameda,273.0,0.0,2.0,Japanese,104756
+11,3.9,Alameda,55.0,0.0,2.0,American,104756
+12,4.3,Alameda,151.0,0.0,2.0,Italian,104756
+13,4.3,Alameda,89.0,0.0,2.0,French American,104756
+14,4.0,Alameda,865.0,0.0,2.0,Italian,104756
+15,4.5,Alamo,55.0,0.0,2.0,Italian,239545
+16,4.6,Albany,296.0,0.0,2.0,Middle Eastern,95400
+17,3.6,Albany,91.0,0.0,2.0,Italian,95400
+18,4.9,Albany,832.0,0.0,3.0,American,95400
+19,4.5,Albany,325.0,0.0,2.0,Pizzeria,95400
+20,4.2,Albany,596.0,0.0,2.0,French,95400
+21,4.4,Antioch,289.0,0.0,2.0,Seafood,76601
+22,4.8,Belmont,2379.0,0.0,3.0,French,156052
+23,4.7,Belmont,958.0,0.0,2.0,Italian,156052
+24,4.5,Belmont,696.0,0.0,2.0,Comfort Food,156052
+25,4.7,Belmont,1805.0,0.0,2.0,Italian,156052
+26,4.6,Belmont,63.0,0.0,2.0,Contemporary American,156052
+27,4.7,Benicia,1783.0,0.0,2.0,Italian,103413
+28,4.6,Benicia,383.0,0.0,2.0,Seafood,103413
+29,4.3,Benicia,210.0,0.0,2.0,Gastro Pub,103413
+30,4.2,Berkeley,1096.0,0.0,3.0,Californian,85530
+31,4.6,Berkeley,864.0,0.0,2.0,Italian,85530
+32,4.8,Berkeley,1239.0,0.0,3.0,French,85530
+33,4.1,Berkeley,52.0,0.0,2.0,Indian,85530
+34,4.5,Berkeley,50.0,0.0,2.0,Ethiopian,85530
+35,4.5,Berkeley,162.0,0.0,2.0,Italian,85530
+36,4.4,Berkeley,344.0,0.0,2.0,Japanese,85530
+37,4.3,Berkeley,879.0,0.0,2.0,Italian,85530
+38,4.4,Berkeley,6343.0,0.0,2.0,Seafood,85530
+39,4.5,Berkeley,106.0,0.0,3.0,Teppanyaki,85530
+40,4.1,Berkeley,75.0,0.0,4.0,Californian,85530
+41,3.9,Berkeley,111.0,0.0,3.0,American,85530
+42,4.4,Berkeley,487.0,0.0,3.0,Spanish,85530
+43,4.4,Berkeley,322.0,0.0,2.0,Italian,85530
+44,3.6,Berkeley,72.0,0.0,2.0,American,85530
+45,4.3,Berkeley,69.0,0.0,2.0,Italian,85530
+46,3.8,Berkeley,79.0,0.0,2.0,Thai,85530
+47,4.4,Berkeley,2429.0,0.0,2.0,Italian,85530
+48,4.3,Berkeley,93.0,0.0,2.0,Shabu-shabu,85530
+49,4.5,Berkeley,3634.0,0.0,3.0,Californian,85530
+50,4.5,Berkeley,684.0,0.0,4.0,Californian,85530
+51,4.5,Berkeley,60.0,0.0,2.0,Contemporary Indian,85530
+52,4.4,Berkeley,1012.0,0.0,2.0,Indian,85530
+53,4.4,Berkeley,210.0,0.0,3.0,Asian,85530
+54,4.3,Berkeley,2800.0,0.0,3.0,Californian,85530
+55,4.5,Berkeley,792.0,0.0,2.0,Japanese,85530
+56,4.2,Berkeley,826.0,0.0,2.0,Mediterranean,85530
+57,3.6,Berkeley,215.0,0.0,2.0,American,85530
+58,4.1,Berkeley,751.0,0.0,2.0,American,85530
+59,3.6,Berkeley,144.0,0.0,2.0,Contemporary American,85530
+60,4.5,Brentwood,1710.0,0.0,2.0,Steakhouse,108994
+61,4.6,Brentwood,501.0,0.0,3.0,Italian,108994
+62,4.2,Brentwood,140.0,0.0,2.0,Japanese,108994
+63,4.1,Brentwood,130.0,0.0,2.0,American,108994
+64,3.9,Brentwood,73.0,0.0,2.0,American,108994
+65,4.7,Burlingame,597.0,0.0,2.0,Bistro,128447
+66,4.4,Burlingame,3725.0,0.0,2.0,Italian,128447
+67,4.6,Burlingame,88.0,0.0,2.0,Greek,128447
+68,4.5,Burlingame,3428.0,0.0,2.0,Japanese,128447
+69,4.5,Burlingame,381.0,0.0,2.0,Italian,128447
+70,4.6,Burlingame,867.0,0.0,2.0,Italian,128447
+71,4.8,Burlingame,1342.0,0.0,2.0,Italian,128447
+72,4.4,Burlingame,579.0,0.0,2.0,American,128447
+73,4.5,Burlingame,216.0,0.0,2.0,Italian,128447
+74,4.2,Burlingame,4148.0,0.0,3.0,Seafood,128447
+75,4.6,Burlingame,602.0,0.0,2.0,Farm-to-table,128447
+76,4.7,Burlingame,740.0,0.0,2.0,Italian,128447
+77,4.3,Burlingame,147.0,0.0,2.0,Contemporary American,128447
+78,4.5,Burlingame,636.0,0.0,3.0,Japanese,128447
+79,4.4,Burlingame,231.0,0.0,2.0,Indian,128447
+80,4.8,Burlingame,138.0,0.0,2.0,Italian,128447
+81,4.0,Burlingame,125.0,0.0,2.0,Greek,128447
+82,4.5,Burlingame,402.0,0.0,3.0,Contemporary Indian,128447
+83,4.3,Burlingame,128.0,0.0,2.0,Burmese,128447
+84,3.7,Burlingame,163.0,0.0,3.0,Organic,128447
+85,3.8,Burlingame,679.0,0.0,2.0,Asian,128447
+86,3.8,Burlingame,187.0,0.0,2.0,Italian,128447
+87,3.6,Burlingame,113.0,0.0,2.0,Dim Sum,128447
+88,4.6,Campbell,2183.0,0.0,2.0,Seafood,124525
+89,4.6,Campbell,1912.0,0.0,3.0,Italian,124525
+90,4.2,Campbell,1140.0,0.0,3.0,American,124525
+91,4.3,Campbell,165.0,0.0,2.0,Greek,124525
+92,4.5,Campbell,185.0,0.0,2.0,Italian,124525
+93,4.8,Campbell,1958.0,0.0,2.0,Austrian,124525
+94,4.6,Campbell,1700.0,0.0,3.0,Japanese,124525
+95,4.8,Campbell,596.0,0.0,3.0,Italian,124525
+96,4.0,Campbell,153.0,0.0,2.0,Contemporary American,124525
+97,3.9,Campbell,711.0,0.0,2.0,Italian,124525
+98,4.4,Campbell,900.0,0.0,2.0,American,124525
+99,4.0,Campbell,360.0,0.0,2.0,American,124525
+100,3.6,Campbell,99.0,0.0,2.0,"Global, International",124525
+101,4.3,Campbell,1373.0,0.0,3.0,Italian,124525
+102,4.2,Concord,3754.0,0.0,3.0,Japanese,89564
+103,4.4,Concord,520.0,0.0,2.0,Contemporary Mexican,89564
+104,4.6,Concord,51.0,0.0,3.0,Italian,89564
+105,4.2,Concord,117.0,0.0,2.0,Italian,89564
+106,4.7,Concord,950.0,0.0,3.0,Brazilian,89564
+107,4.1,Concord,62.0,0.0,3.0,Steakhouse,89564
+108,4.4,Concord,892.0,0.0,2.0,Italian,89564
+109,3.3,Concord,55.0,0.0,4.0,Gastro Pub,89564
+110,4.4,Concord,226.0,0.0,2.0,Peruvian,89564
+111,4.4,Corte Madera,732.0,0.0,3.0,Mexican,149439
+112,4.5,Corte Madera,2601.0,0.0,3.0,Italian,149439
+113,4.4,Corte Madera,860.0,0.0,2.0,Seafood,149439
+114,4.7,Corte Madera,646.0,0.0,3.0,American,149439
+115,4.1,Corte Madera,67.0,0.0,2.0,Contemporary American,149439
+116,3.8,Corte Madera,115.0,0.0,2.0,Pizzeria,149439
+117,4.6,Crockett,9518.0,0.0,2.0,Seafood,79951
+118,4.5,Cupertino,2886.0,0.0,2.0,Japanese,171917
+119,4.8,Cupertino,311.0,0.0,3.0,Brazilian Steakhouse,171917
+120,3.8,Cupertino,622.0,0.0,2.0,Persian,171917
+121,4.5,Cupertino,728.0,0.0,2.0,Japanese,171917
+122,4.4,Cupertino,3105.0,0.0,4.0,Steakhouse,171917
+123,4.4,Cupertino,3105.0,0.0,4.0,Steakhouse,171917
+124,4.2,Cupertino,114.0,0.0,2.0,American,171917
+125,4.2,Cupertino,83.0,0.0,4.0,Indian,171917
+126,4.1,Cupertino,1575.0,0.0,3.0,Italian,171917
+127,4.7,Daly City,1973.0,0.0,2.0,Italian,94550
+128,4.6,Danville,4027.0,0.0,2.0,Californian,160808
+129,4.6,Danville,823.0,0.0,2.0,Californian,160808
+130,4.7,Danville,101.0,0.0,2.0,Japanese,160808
+131,4.4,Danville,293.0,0.0,2.0,Mexican,160808
+132,4.7,Danville,3663.0,0.0,2.0,Italian,160808
+133,4.5,Danville,791.0,0.0,2.0,Californian,160808
+134,4.7,Danville,2486.0,0.0,3.0,Steakhouse,160808
+135,4.5,Danville,1419.0,0.0,2.0,Italian,160808
+136,4.3,Danville,1546.0,0.0,2.0,Mediterranean,160808
+137,4.3,Danville,2758.0,0.0,2.0,Californian,160808
+138,4.5,Danville,910.0,0.0,2.0,Contemporary American,160808
+139,4.5,Danville,62.0,0.0,2.0,Thai,160808
+140,4.5,Danville,404.0,0.0,2.0,Italian,160808
+141,3.9,Danville,867.0,0.0,2.0,Italian,160808
+142,4.1,Danville,222.0,0.0,2.0,Mediterranean,160808
+143,4.5,Danville,4379.0,0.0,2.0,American,160808
+144,4.1,Danville,188.0,0.0,2.0,Italian,160808
+145,3.8,Danville,292.0,0.0,2.0,Mexican,160808
+146,4.7,Dublin,531.0,0.0,2.0,American,150299
+147,4.5,Dublin,1018.0,0.0,2.0,Seafood,150299
+148,4.4,Dublin,73.0,0.0,3.0,Teppanyaki,150299
+149,4.0,Dublin,2062.0,0.0,2.0,Steakhouse,150299
+150,4.5,Dublin,139.0,0.0,2.0,Burmese,150299
+151,4.1,Dublin,283.0,0.0,2.0,Japanese,150299
+152,4.0,Dublin,440.0,0.0,2.0,Latin / Spanish,150299
+153,4.1,Dublin,119.0,0.0,2.0,Italian,150299
+154,3.8,Emeryville,217.0,0.0,3.0,Mexican,102725
+155,4.6,Emeryville,65.0,0.0,2.0,Asian,102725
+156,4.3,Emeryville,1670.0,0.0,2.0,American,102725
+157,4.0,Emeryville,179.0,0.0,2.0,Thai,102725
+158,4.4,Foster City,136.0,0.0,2.0,American,158529
+159,3.6,Foster City,270.0,0.0,2.0,Chinese,158529
+160,4.4,Fremont,66.0,0.0,2.0,Italian,133354
+161,3.6,Fremont,170.0,0.0,2.0,American,133354
+162,4.7,Fremont,202.0,0.0,2.0,Italian,133354
+163,4.6,Fremont,1345.0,0.0,3.0,Italian,133354
+164,4.0,Fremont,457.0,0.0,3.0,Continental,133354
+165,4.7,Gilroy,687.0,0.0,2.0,American,101616
+166,4.4,Gilroy,57.0,0.0,2.0,American,101616
+167,4.4,Gilroy,121.0,0.0,2.0,Sushi,101616
+168,4.6,Half Moon Bay,2536.0,0.0,2.0,Italian,134177
+169,4.7,Half Moon Bay,3879.0,0.0,2.0,Italian,134177
+170,4.7,Half Moon Bay,1456.0,0.0,2.0,Cocktail Bar,134177
+171,4.6,Half Moon Bay,5178.0,0.0,2.0,Seafood,134177
+172,4.2,Half Moon Bay,2857.0,0.0,3.0,Peruvian,134177
+173,4.7,Half Moon Bay,84.0,0.0,2.0,Nepalese,134177
+174,3.8,Half Moon Bay,503.0,0.0,2.0,American,134177
+175,4.2,Half Moon Bay,106.0,0.0,2.0,Spanish,134177
+176,4.3,Half Moon Bay,3436.0,0.0,2.0,Seafood,134177
+177,4.1,Half Moon Bay,1262.0,0.0,2.0,Seafood,134177
+178,4.8,Hayward,453.0,0.0,3.0,Contemporary American,86744
+179,4.3,Hayward,403.0,0.0,2.0,Southern,86744
+180,4.4,Lafayette,733.0,0.0,2.0,Peruvian,178889
+181,4.6,Lafayette,533.0,0.0,2.0,American,178889
+182,4.8,Lafayette,1424.0,0.0,3.0,French,178889
+183,4.0,Lafayette,1995.0,0.0,2.0,American,178889
+184,4.8,Lafayette,645.0,0.0,2.0,Italian,178889
+185,4.7,Lafayette,824.0,0.0,2.0,American,178889
+186,4.4,Lafayette,1176.0,0.0,3.0,Contemporary American,178889
+187,4.3,Lafayette,1536.0,0.0,3.0,Italian,178889
+188,4.2,Lafayette,621.0,0.0,2.0,Contemporary American,178889
+189,4.0,Lafayette,1415.0,0.0,2.0,Contemporary American,178889
+190,4.1,Lafayette,53.0,0.0,2.0,Mexican,178889
+191,4.5,Larkspur,3199.0,0.0,2.0,French,109426
+192,4.6,Larkspur,904.0,0.0,2.0,Californian,109426
+193,4.7,Larkspur,1418.0,0.0,2.0,American,109426
+194,4.3,Larkspur,2684.0,0.0,3.0,Fondue,109426
+195,4.4,Larkspur,1860.0,0.0,3.0,Californian,109426
+196,4.5,Livermore,189.0,0.0,2.0,Californian,127452
+197,4.6,Livermore,400.0,0.0,2.0,Barbecue,127452
+198,4.6,Livermore,1532.0,0.0,2.0,Pan-Asian,127452
+199,4.6,Livermore,924.0,0.0,2.0,Italian,127452
+200,4.4,Livermore,65.0,0.0,2.0,Italian,127452
+201,4.1,Livermore,111.0,0.0,2.0,Italian,127452
+202,4.6,Livermore,2688.0,0.0,3.0,Fondue,127452
+203,4.5,Livermore,1243.0,0.0,2.0,American,127452
+204,3.2,Livermore,141.0,0.0,3.0,American,127452
+205,4.3,Livermore,132.0,0.0,2.0,American,127452
+206,3.9,Livermore,110.0,0.0,2.0,Thai,127452
+207,3.8,Livermore,53.0,0.0,2.0,American,127452
+208,4.3,Livermore,1490.0,0.0,2.0,Italian,127452
+209,4.2,Livermore,420.0,0.0,3.0,Tapas / Small Plates,127452
+210,4.0,Livermore,61.0,0.0,2.0,American,127452
+211,4.6,Los Altos,75.0,0.0,2.0,American,235278
+212,4.7,Los Altos,414.0,0.0,2.0,Mediterranean,235278
+213,4.5,Los Altos,52.0,0.0,3.0,Bistro,235278
+214,4.2,Los Altos,210.0,0.0,2.0,Mexican,235278
+215,4.6,Los Altos,740.0,0.0,2.0,Mediterranean,235278
+216,4.5,Los Altos,62.0,0.0,2.0,Italian,235278
+217,4.9,Los Altos,162.0,0.0,2.0,Italian,235278
+218,4.0,Los Altos,133.0,0.0,2.0,Mexican / Southwestern,235278
+219,4.0,Los Altos,143.0,0.0,2.0,Californian,235278
+220,4.6,Los Altos,214.0,0.0,3.0,American,235278
+221,4.4,Los Gatos,230.0,0.0,2.0,American,155863
+222,4.4,Los Gatos,649.0,0.0,3.0,Pacific Rim,155863
+223,4.7,Los Gatos,3067.0,0.0,3.0,Steakhouse,155863
+224,4.6,Los Gatos,2763.0,0.0,4.0,Mediterranean,155863
+225,4.8,Los Gatos,264.0,0.0,2.0,Italian,155863
+226,4.4,Los Gatos,129.0,0.0,3.0,Californian,155863
+227,4.2,Los Gatos,1342.0,0.0,2.0,Contemporary American,155863
+228,4.8,Los Gatos,56.0,0.0,3.0,Winery,155863
+229,4.3,Los Gatos,95.0,0.0,3.0,American,155863
+230,4.2,Los Gatos,1034.0,0.0,4.0,Contemporary American,155863
+231,4.6,Los Gatos,1776.0,0.0,4.0,Contemporary American,155863
+232,4.3,Los Gatos,100.0,0.0,2.0,Vietnamese,155863
+233,4.6,Los Gatos,161.0,0.0,3.0,Californian,155863
+234,3.9,Los Gatos,149.0,0.0,2.0,Seafood,155863
+235,4.5,Los Gatos,85.0,0.0,2.0,Californian,155863
+236,4.2,Los Gatos,105.0,0.0,2.0,Mexican,155863
+237,3.9,Los Gatos,283.0,0.0,2.0,Barbecue,155863
+238,4.8,Menlo Park,353.0,0.0,2.0,Mediterranean,160784
+239,4.7,Menlo Park,2152.0,0.0,2.0,French,160784
+240,4.5,Menlo Park,2210.0,0.0,2.0,French,160784
+241,4.7,Menlo Park,602.0,0.0,2.0,Italian,160784
+242,4.4,Menlo Park,58.0,0.0,2.0,Italian,160784
+243,4.7,Menlo Park,218.0,0.0,2.0,American,160784
+244,4.6,Menlo Park,327.0,0.0,3.0,American,160784
+245,4.6,Menlo Park,415.0,0.0,3.0,Farm-to-table,160784
+246,4.5,Menlo Park,437.0,0.0,2.0,Californian,160784
+247,4.9,Menlo Park,231.0,0.0,2.0,Italian,160784
+248,4.6,Menlo Park,2817.0,0.0,3.0,Contemporary American,160784
+249,4.4,Menlo Park,307.0,0.0,3.0,Japanese,160784
+250,4.3,Mill Valley,234.0,0.0,2.0,American,163614
+251,4.7,Mill Valley,1541.0,0.0,2.0,Italian,163614
+252,4.0,Mill Valley,156.0,0.0,2.0,Mexican,163614
+253,4.3,Mill Valley,57.0,0.0,2.0,Indian,163614
+254,4.4,Mill Valley,3246.0,0.0,3.0,American,163614
+255,4.2,Mill Valley,1228.0,0.0,3.0,American,163614
+256,4.0,Millbrae,91.0,0.0,2.0,American,128494
+257,4.0,Millbrae,62.0,0.0,2.0,Californian,128494
+258,4.4,Millbrae,207.0,0.0,2.0,Italian,128494
+259,4.5,Milpitas,136.0,0.0,2.0,Mexican,132320
+260,3.5,Milpitas,132.0,0.0,2.0,Italian,132320
+261,4.0,Milpitas,1083.0,0.0,2.0,Steakhouse,132320
+262,4.0,Milpitas,1083.0,0.0,2.0,Steakhouse,132320
+263,4.6,Moraga,201.0,0.0,2.0,Italian,140378
+264,4.3,Moraga,90.0,0.0,2.0,Brewery,140378
+265,4.2,Moraga,98.0,0.0,2.0,Italian,140378
+266,4.5,Morgan Hill,2008.0,0.0,3.0,Mediterranean,124419
+267,4.1,Morgan Hill,777.0,0.0,3.0,American,124419
+268,4.4,Morgan Hill,298.0,0.0,4.0,International,124419
+269,4.2,Morgan Hill,311.0,0.0,2.0,Seafood,124419
+270,4.2,Morgan Hill,247.0,0.0,2.0,Californian,124419
+271,4.6,Mountain View,812.0,0.0,2.0,Italian,139720
+272,4.2,Mountain View,222.0,0.0,2.0,Indian,139720
+273,4.6,Mountain View,1011.0,0.0,2.0,Seafood,139720
+274,4.7,Mountain View,3759.0,0.0,2.0,Tapas / Small Plates,139720
+275,4.8,Mountain View,145.0,0.0,2.0,American,139720
+276,4.7,Mountain View,639.0,0.0,2.0,Italian,139720
+277,4.8,Mountain View,547.0,0.0,2.0,Italian,139720
+278,4.3,Mountain View,474.0,0.0,2.0,Japanese,139720
+279,4.3,Mountain View,2050.0,0.0,3.0,American,139720
+280,4.6,Mountain View,813.0,0.0,2.0,Italian,139720
+281,4.2,Mountain View,1342.0,0.0,4.0,Contemporary French,139720
+282,4.1,Mountain View,1649.0,0.0,2.0,American,139720
+283,4.3,Mountain View,761.0,0.0,2.0,Indian,139720
+284,3.9,Mountain View,139.0,0.0,2.0,Contemporary Mexican,139720
+285,3.9,Mountain View,241.0,0.0,4.0,Indian,139720
+286,4.6,Newark,564.0,0.0,2.0,Seafood,116856
+287,3.7,Newark,68.0,0.0,3.0,Contemporary American,116856
+288,4.3,Novato,229.0,0.0,3.0,American,101342
+289,4.6,Novato,760.0,0.0,2.0,Italian,101342
+290,4.4,Novato,114.0,0.0,2.0,Indian,101342
+291,4.0,Novato,1004.0,0.0,2.0,Comfort Food,101342
+292,4.3,Novato,219.0,0.0,2.0,Italian,101342
+293,3.9,Novato,220.0,0.0,2.0,American,101342
+294,4.4,Oakland,1077.0,0.0,2.0,Mexican,73692
+295,4.3,Oakland,534.0,0.0,3.0,Steakhouse,73692
+296,4.3,Oakland,217.0,0.0,2.0,American,73692
+297,4.8,Oakland,559.0,0.0,2.0,Pizzeria,73692
+298,4.4,Oakland,320.0,0.0,2.0,Californian,73692
+299,4.6,Oakland,577.0,0.0,2.0,Italian,73692
+300,4.6,Oakland,2506.0,0.0,3.0,Mediterranean,73692
+301,4.8,Oakland,953.0,0.0,3.0,Californian,73692
+302,4.3,Oakland,3321.0,0.0,3.0,Italian,73692
+303,4.7,Oakland,1843.0,0.0,3.0,Italian,73692
+304,4.7,Oakland,374.0,0.0,3.0,Italian,73692
+305,4.7,Oakland,1135.0,0.0,3.0,Spanish,73692
+306,4.4,Oakland,123.0,0.0,2.0,American,73692
+307,4.2,Oakland,69.0,0.0,2.0,Peruvian,73692
+308,4.5,Oakland,980.0,0.0,3.0,Mediterranean,73692
+309,4.5,Oakland,85.0,0.0,2.0,Laotian,73692
+310,4.5,Oakland,668.0,0.0,3.0,Italian,73692
+311,3.8,Oakland,158.0,0.0,2.0,Burgers,73692
+312,4.4,Oakland,181.0,0.0,2.0,American,73692
+313,4.5,Oakland,624.0,0.0,3.0,Syrian,73692
+314,4.6,Oakland,356.0,0.0,2.0,Tapas / Small Plates,73692
+315,4.2,Oakland,237.0,0.0,2.0,Californian,73692
+316,4.5,Oakland,150.0,0.0,3.0,French,73692
+317,4.2,Oakland,291.0,0.0,2.0,Sushi,73692
+318,3.6,Oakland,111.0,0.0,2.0,American,73692
+319,3.9,Oakland,670.0,0.0,3.0,Californian,73692
+320,4.5,Oakland,173.0,0.0,3.0,Californian,73692
+321,4.6,Oakland,95.0,0.0,2.0,Contemporary American,73692
+322,4.0,Oakland,210.0,0.0,2.0,Italian,73692
+323,4.1,Oakland,61.0,0.0,3.0,International,73692
+324,4.2,Oakland,130.0,0.0,2.0,Contemporary American,73692
+325,4.6,Oakland,580.0,0.0,2.0,Italian,73692
+326,4.4,Oakland,458.0,0.0,2.0,Thai,73692
+327,4.6,Oakland,1263.0,0.0,4.0,Californian,73692
+328,4.6,Oakland,996.0,0.0,3.0,American,73692
+329,4.5,Oakland,1245.0,0.0,3.0,Vegan,73692
+330,4.0,Oakland,147.0,0.0,3.0,Californian,73692
+331,3.7,Oakland,2404.0,0.0,3.0,Californian,73692
+332,3.9,Oakland,515.0,0.0,2.0,American,73692
+333,4.2,Oakland,1652.0,0.0,3.0,Mexican,73692
+334,4.2,Oakland,57.0,0.0,2.0,Latin American,73692
+335,4.1,Oakland,1494.0,0.0,2.0,Contemporary American,73692
+336,4.2,Oakland,101.0,0.0,2.0,Shellfish,73692
+337,4.3,Oakland,298.0,0.0,2.0,Regional Mexican,73692
+338,4.2,Oakland,2045.0,0.0,3.0,American,73692
+339,4.7,Oakland,6828.0,0.0,2.0,Japanese,73692
+340,4.2,Oakland,3413.0,0.0,2.0,Seafood,73692
+341,4.1,Oakland,112.0,0.0,2.0,"Global, International",73692
+342,4.7,Orinda,60.0,0.0,2.0,Contemporary European,223217
+343,4.8,Orinda,1454.0,0.0,3.0,American,223217
+344,3.7,Orinda,225.0,0.0,2.0,Comfort Food,223217
+345,3.4,Orinda,190.0,0.0,4.0,Mexican,223217
+347,4.8,Pacifica,981.0,0.0,3.0,American,125500
+348,4.1,Pacifica,397.0,0.0,2.0,Peruvian,125500
+349,4.4,Palo Alto,880.0,0.0,2.0,Italian,158271
+350,4.8,Palo Alto,3602.0,0.0,3.0,Mediterranean,158271
+351,4.7,Palo Alto,671.0,0.0,3.0,Greek,158271
+352,4.1,Palo Alto,159.0,0.0,2.0,Contemporary American,158271
+353,3.6,Palo Alto,834.0,0.0,2.0,Italian,158271
+354,4.0,Palo Alto,320.0,0.0,2.0,Burmese,158271
+355,4.6,Palo Alto,842.0,0.0,4.0,Spanish,158271
+356,4.7,Palo Alto,2273.0,0.0,3.0,American,158271
+357,4.7,Palo Alto,3739.0,0.0,4.0,Steakhouse,158271
+358,4.8,Palo Alto,1065.0,0.0,2.0,Italian,158271
+359,4.5,Palo Alto,579.0,0.0,2.0,Turkish,158271
+360,4.7,Palo Alto,988.0,0.0,3.0,Asian,158271
+361,4.1,Palo Alto,93.0,0.0,2.0,Contemporary French,158271
+362,4.6,Palo Alto,380.0,0.0,2.0,Californian,158271
+363,4.7,Palo Alto,560.0,0.0,4.0,Japanese,158271
+364,4.6,Palo Alto,2478.0,0.0,3.0,Mexican,158271
+365,4.6,Palo Alto,437.0,0.0,3.0,Indian,158271
+366,4.7,Palo Alto,114.0,0.0,2.0,Pizza Bar,158271
+367,4.8,Palo Alto,268.0,0.0,3.0,American,158271
+368,4.6,Palo Alto,2467.0,0.0,2.0,Italian,158271
+369,4.3,Palo Alto,921.0,0.0,2.0,Burmese,158271
+370,4.5,Palo Alto,704.0,0.0,3.0,French,158271
+371,4.1,Palo Alto,1561.0,0.0,2.0,American,158271
+372,4.2,Palo Alto,2560.0,0.0,2.0,Cajun,158271
+373,4.7,Palo Alto,1494.0,0.0,3.0,Steak,158271
+374,4.2,Palo Alto,281.0,0.0,2.0,Contemporary American,158271
+375,4.5,Palo Alto,1182.0,0.0,3.0,Italian,158271
+376,4.8,Palo Alto,1632.0,0.0,4.0,Seafood,158271
+377,3.6,Palo Alto,95.0,0.0,2.0,Asian,158271
+378,4.3,Palo Alto,370.0,0.0,2.0,Contemporary American,158271
+379,4.5,Palo Alto,97.0,0.0,3.0,Italian,158271
+380,4.4,Palo Alto,346.0,0.0,2.0,Tapas / Small Plates,158271
+381,4.3,Palo Alto,234.0,0.0,3.0,Contemporary Indian,158271
+382,3.9,Palo Alto,236.0,0.0,2.0,Caribbean,158271
+383,4.2,Palo Alto,509.0,0.0,2.0,French,158271
+384,4.4,Palo Alto,161.0,0.0,2.0,Georgian,158271
+385,4.3,Palo Alto,1764.0,0.0,3.0,Vietnamese,158271
+386,4.4,Palo Alto,533.0,0.0,3.0,Italian,158271
+387,4.3,Palo Alto,149.0,0.0,2.0,French,158271
+388,4.5,Palo Alto,516.0,0.0,4.0,French,158271
+389,4.4,Palo Alto,54.0,0.0,2.0,Mediterranean,158271
+390,4.3,Palo Alto,171.0,0.0,2.0,Seafood,158271
+391,4.2,Pescadero,122.0,0.0,3.0,Californian,120139
+392,4.2,Pinole,172.0,0.0,2.0,Californian,100315
+393,4.3,Pleasant Hill,932.0,0.0,2.0,Californian,118947
+394,4.8,Pleasanton,946.0,0.0,2.0,Italian,156400
+395,4.6,Pleasanton,568.0,0.0,3.0,Italian,156400
+396,4.6,Pleasanton,993.0,0.0,2.0,European,156400
+397,4.6,Pleasanton,174.0,0.0,2.0,American,156400
+398,4.4,Pleasanton,485.0,0.0,2.0,Italian,156400
+399,4.1,Pleasanton,624.0,0.0,2.0,Contemporary American,156400
+400,4.6,Pleasanton,147.0,0.0,2.0,Italian,156400
+401,4.0,Pleasanton,69.0,0.0,2.0,Asian,156400
+402,4.5,Pleasanton,896.0,0.0,2.0,Mexican,156400
+403,4.7,Pleasanton,566.0,0.0,3.0,Continental,156400
+404,3.7,Pleasanton,606.0,0.0,2.0,Mediterranean,156400
+405,4.3,Pleasanton,628.0,0.0,3.0,Italian,156400
+406,3.6,Pleasanton,244.0,0.0,2.0,American,156400
+407,4.1,Pleasanton,707.0,0.0,2.0,Mediterranean,156400
+408,4.1,Pleasanton,190.0,0.0,3.0,Italian,156400
+409,4.4,Pleasanton,57.0,0.0,2.0,Indian,156400
+410,4.2,Pleasanton,121.0,0.0,2.0,Mediterranean,156400
+411,3.6,Pleasanton,244.0,0.0,2.0,American,156400
+412,4.1,Pleasanton,707.0,0.0,2.0,Mediterranean,156400
+413,4.1,Pleasanton,190.0,0.0,3.0,Italian,156400
+414,4.4,Pleasanton,57.0,0.0,2.0,Indian,156400
+415,4.2,Pleasanton,121.0,0.0,2.0,Mediterranean,156400
+416,4.7,Point Reyes Station,83.0,0.0,2.0,American,36597
+417,3.9,Point Reyes Station,596.0,0.0,2.0,American,36597
+418,4.1,Port Costa,2351.0,0.0,3.0,American,181116
+419,4.8,Portola Valley,708.0,0.0,2.0,Italian,224554
+420,4.7,Portola Valley,1273.0,0.0,2.0,Californian,224554
+421,4.6,Redwood City,2414.0,0.0,2.0,Italian,117123
+422,4.3,Redwood City,179.0,0.0,2.0,Californian,117123
+423,4.6,Redwood City,453.0,0.0,2.0,Latin American,117123
+424,4.8,Redwood City,287.0,0.0,2.0,Indian,117123
+425,4.6,Redwood City,581.0,0.0,2.0,Steakhouse,117123
+426,4.8,Redwood City,305.0,0.0,3.0,American,117123
+427,4.6,Redwood City,366.0,0.0,2.0,Italian,117123
+428,4.2,Redwood City,487.0,0.0,2.0,Irish,117123
+429,4.3,Redwood City,1767.0,0.0,2.0,Latin American,117123
+430,4.1,Redwood City,208.0,0.0,2.0,Chinese,117123
+431,4.5,Redwood City,981.0,0.0,2.0,Californian,117123
+432,4.1,Redwood City,76.0,0.0,2.0,"Global, International",117123
+433,4.6,Redwood City,108.0,0.0,2.0,Mexican,117123
+434,4.4,Redwood City,836.0,0.0,3.0,Tapas / Small Plates,117123
+435,3.7,Redwood City,69.0,0.0,2.0,Californian,117123
+436,3.8,Redwood City,183.0,0.0,2.0,American,117123
+437,4.3,Richmond,913.0,0.0,2.0,Italian,68472
+438,4.1,Richmond,334.0,0.0,2.0,American,68472
+439,4.7,Ross,161.0,0.0,3.0,Italian,224500
+440,4.7,Ross,1353.0,0.0,3.0,Farm-to-table,224500
+441,4.7,San Anselmo,2677.0,0.0,3.0,Mediterranean,128212
+442,4.6,San Anselmo,438.0,0.0,3.0,Italian,128212
+443,4.7,San Anselmo,700.0,0.0,3.0,Californian,128212
+444,4.0,San Anselmo,925.0,0.0,2.0,Mexican,128212
+445,4.3,San Anselmo,100.0,0.0,2.0,Wine Bar,128212
+446,4.1,San Anselmo,401.0,0.0,3.0,Italian,128212
+447,4.6,San Bruno,319.0,0.0,2.0,Sushi,109387
+448,3.7,San Bruno,174.0,0.0,3.0,Brazilian Steakhouse,109387
+449,4.6,San Carlos,475.0,0.0,2.0,Italian,182083
+450,4.6,San Carlos,518.0,0.0,2.0,Californian,182083
+451,4.6,San Carlos,1115.0,0.0,2.0,Italian,182083
+452,4.8,San Carlos,203.0,0.0,2.0,Italian,182083
+453,4.4,San Carlos,1212.0,0.0,3.0,Steakhouse,182083
+454,4.5,San Carlos,132.0,0.0,4.0,Steakhouse,182083
+455,4.7,San Carlos,330.0,0.0,2.0,Italian,182083
+456,4.1,San Carlos,93.0,0.0,2.0,Wine Bar,182083
+457,4.6,San Carlos,424.0,0.0,2.0,Burmese,182083
+458,4.5,San Carlos,526.0,0.0,3.0,Japanese,182083
+459,4.5,San Carlos,5583.0,0.0,2.0,American,182083
+460,3.8,San Carlos,51.0,0.0,2.0,Fusion / Eclectic,182083
+461,4.0,San Carlos,174.0,0.0,2.0,Seafood,182083
+462,3.9,San Carlos,164.0,0.0,2.0,Japanese,182083
+463,4.1,San Carlos,86.0,0.0,2.0,Indian,182083
+464,4.3,San Carlos,1911.0,0.0,2.0,Creole,182083
+465,4.2,San Francisco,566.0,0.0,3.0,Tapas / Small Plates,112449
+466,4.6,San Francisco,2294.0,0.0,3.0,Italian,112449
+467,4.7,San Francisco,5531.0,0.0,3.0,American,112449
+468,4.4,San Francisco,59.0,0.0,2.0,Italian,112449
+469,4.5,San Francisco,628.0,0.0,3.0,Californian,112449
+470,4.0,San Francisco,2155.0,0.0,4.0,Italian,112449
+471,4.6,San Francisco,1189.0,0.0,2.0,French,112449
+472,4.7,San Francisco,555.0,0.0,2.0,Italian,112449
+473,4.7,San Francisco,578.0,0.0,3.0,American,112449
+474,4.3,San Francisco,1383.0,0.0,4.0,Brazilian Steakhouse,112449
+475,4.5,San Francisco,88.0,0.0,3.0,Contemporary Korean,112449
+476,4.5,San Francisco,912.0,0.0,3.0,Italian,112449
+477,3.8,San Francisco,2168.0,0.0,2.0,Japanese,112449
+478,4.5,San Francisco,2342.0,0.0,3.0,Californian,112449
+479,4.4,San Francisco,1078.0,0.0,2.0,Californian,112449
+480,4.5,San Francisco,2700.0,0.0,3.0,Indian,112449
+481,4.5,San Francisco,317.0,0.0,2.0,Contemporary American,112449
+482,4.7,San Francisco,1248.0,0.0,3.0,Italian,112449
+483,4.6,San Francisco,1666.0,0.0,2.0,French,112449
+484,4.6,San Francisco,339.0,0.0,2.0,Caribbean,112449
+485,4.6,San Francisco,80.0,0.0,2.0,Beer Garden,112449
+486,4.7,San Francisco,415.0,0.0,2.0,Thai,112449
+487,4.7,San Francisco,1803.0,0.0,2.0,Spanish,112449
+488,4.4,San Francisco,624.0,0.0,2.0,French,112449
+489,4.2,San Francisco,2763.0,0.0,2.0,Asian,112449
+490,4.6,San Francisco,268.0,0.0,2.0,Italian,112449
+491,4.5,San Francisco,451.0,0.0,2.0,Indian,112449
+492,4.4,San Francisco,523.0,0.0,2.0,Californian,112449
+493,4.6,San Francisco,501.0,0.0,3.0,Californian,112449
+494,4.9,San Francisco,11616.0,0.0,4.0,Steak,112449
+495,4.6,San Francisco,6458.0,0.0,3.0,French,112449
+496,4.5,San Francisco,583.0,0.0,4.0,Steak,112449
+497,4.8,San Francisco,140.0,0.0,2.0,Cocktail Bar,112449
+498,4.8,San Francisco,1733.0,0.0,4.0,Californian,112449
+499,4.7,San Francisco,57.0,0.0,2.0,American,112449
+500,4.7,San Francisco,702.0,0.0,2.0,Japanese,112449
+501,4.8,San Francisco,1343.0,0.0,2.0,Pizzeria,112449
+502,4.8,San Francisco,6698.0,0.0,3.0,Modern European,112449
+503,4.8,San Francisco,131.0,0.0,4.0,Oyster Bar,112449
+504,4.6,San Francisco,108.0,0.0,3.0,Sushi,112449
+505,4.8,San Francisco,4070.0,0.0,4.0,Steakhouse,112449
+506,4.6,San Francisco,6153.0,0.0,2.0,American,112449
+507,4.8,San Francisco,2025.0,0.0,4.0,French,112449
+508,4.6,San Francisco,79.0,0.0,2.0,Italian,112449
+509,4.7,San Francisco,1842.0,0.0,3.0,Steakhouse,112449
+510,4.3,San Francisco,3330.0,0.0,2.0,Steakhouse,112449
+511,4.8,San Francisco,91.0,0.0,4.0,Japanese,112449
+512,4.7,San Francisco,1193.0,0.0,3.0,Spanish,112449
+513,4.8,San Francisco,1479.0,0.0,2.0,Seafood,112449
+514,4.5,San Francisco,1034.0,0.0,2.0,French,112449
+515,4.2,San Francisco,3377.0,0.0,3.0,Vietnamese,112449
+516,4.6,San Francisco,218.0,0.0,2.0,Italian,112449
+517,4.6,San Francisco,92.0,0.0,4.0,Japanese,112449
+518,4.6,San Francisco,613.0,0.0,2.0,American,112449
+519,4.7,San Francisco,1624.0,0.0,2.0,Chinese,112449
+520,4.8,San Francisco,1630.0,0.0,2.0,American,112449
+521,4.8,San Francisco,1644.0,0.0,3.0,Italian,112449
+522,4.5,San Francisco,1347.0,0.0,2.0,French,112449
+523,4.8,San Francisco,2609.0,0.0,2.0,Californian,112449
+524,4.8,San Francisco,6297.0,0.0,2.0,Italian,112449
+525,4.7,San Francisco,591.0,0.0,3.0,Californian,112449
+526,4.8,San Francisco,69.0,0.0,3.0,Italian,112449
+527,4.7,San Francisco,1022.0,0.0,3.0,Italian,112449
+528,4.6,San Francisco,139.0,0.0,3.0,Contemporary American,112449
+529,4.7,San Francisco,1455.0,0.0,2.0,Japanese,112449
+530,4.3,San Francisco,429.0,0.0,3.0,Californian,112449
+531,4.8,San Francisco,871.0,0.0,3.0,Mediterranean,112449
+532,4.7,San Francisco,1186.0,0.0,2.0,Contemporary American,112449
+533,4.7,San Francisco,1354.0,0.0,4.0,French,112449
+534,4.8,San Francisco,2696.0,0.0,3.0,French,112449
+535,4.9,San Francisco,1683.0,0.0,3.0,Mediterranean,112449
+536,4.7,San Francisco,184.0,0.0,2.0,Italian,112449
+537,4.3,San Francisco,111.0,0.0,2.0,Hawaiian,112449
+538,4.9,San Francisco,2009.0,0.0,3.0,Italian,112449
+539,4.7,San Francisco,497.0,0.0,2.0,Italian,112449
+540,5.0,San Francisco,1310.0,0.0,4.0,Japanese,112449
+541,4.5,San Francisco,777.0,0.0,2.0,Italian,112449
+542,4.6,San Francisco,244.0,0.0,2.0,Moroccan,112449
+543,4.9,San Francisco,1595.0,0.0,3.0,Italian,112449
+544,4.2,San Francisco,232.0,0.0,3.0,Italian,112449
+545,4.5,San Francisco,1309.0,0.0,2.0,Dim Sum,112449
+546,4.8,San Francisco,3867.0,0.0,3.0,American,112449
+547,4.6,San Francisco,1121.0,0.0,3.0,Spanish,112449
+548,4.8,San Francisco,123.0,0.0,2.0,Swiss,112449
+549,4.8,San Francisco,699.0,0.0,3.0,Italian,112449
+550,4.7,San Francisco,1170.0,0.0,3.0,Japanese,112449
+551,4.8,San Francisco,414.0,0.0,2.0,Californian,112449
+552,4.6,San Francisco,1082.0,0.0,3.0,Italian,112449
+553,4.6,San Francisco,2142.0,0.0,4.0,Steakhouse,112449
+554,3.8,San Francisco,906.0,1.0,2.0,Gastro Pub,112449
+555,4.4,San Francisco,117.0,0.0,2.0,Italian,112449
+556,4.8,San Francisco,62.0,0.0,2.0,Italian,112449
+557,4.5,San Francisco,1121.0,0.0,2.0,French,112449
+558,4.4,San Francisco,1100.0,0.0,2.0,Mexican,112449
+559,4.5,San Francisco,237.0,0.0,2.0,Thai,112449
+560,4.4,San Francisco,97.0,0.0,2.0,Thai,112449
+561,4.8,San Francisco,1348.0,0.0,3.0,Italian,112449
+562,4.5,San Francisco,172.0,0.0,2.0,Italian,112449
+563,3.7,San Francisco,1383.0,0.0,2.0,American,112449
+564,3.8,San Francisco,77.0,0.0,2.0,Indian,112449
+565,4.4,San Francisco,4271.0,0.0,3.0,Contemporary American,112449
+566,4.3,San Francisco,138.0,0.0,2.0,Thai,112449
+567,3.8,San Francisco,103.0,0.0,2.0,Indian,112449
+568,4.6,San Francisco,2816.0,0.0,3.0,Steak,112449
+569,4.8,San Francisco,404.0,0.0,2.0,Mediterranean,112449
+570,4.6,San Francisco,90.0,0.0,2.0,Californian,112449
+571,4.7,San Francisco,153.0,0.0,3.0,Spanish,112449
+572,4.6,San Francisco,117.0,0.0,3.0,Japanese,112449
+573,4.9,San Francisco,238.0,0.0,4.0,Japanese,112449
+574,4.0,San Francisco,717.0,0.0,2.0,Seafood,112449
+575,4.2,San Francisco,755.0,0.0,2.0,Italian,112449
+576,4.4,San Francisco,256.0,0.0,3.0,Italian,112449
+577,3.8,San Francisco,521.0,0.0,3.0,Indian,112449
+578,4.4,San Francisco,1290.0,0.0,3.0,Italian,112449
+579,4.9,San Francisco,539.0,0.0,2.0,Italian,112449
+580,4.7,San Francisco,751.0,0.0,3.0,Italian,112449
+581,4.5,San Francisco,51.0,0.0,2.0,Pizzeria,112449
+582,4.5,San Francisco,204.0,0.0,2.0,Chinese,112449
+583,4.6,San Francisco,2473.0,0.0,2.0,American,112449
+584,4.5,San Francisco,929.0,0.0,2.0,Contemporary American,112449
+585,4.4,San Francisco,65.0,0.0,2.0,Mediterranean,112449
+586,4.8,San Francisco,1974.0,0.0,2.0,Chinese,112449
+587,4.5,San Francisco,130.0,0.0,2.0,Nepalese,112449
+588,4.3,San Francisco,1224.0,0.0,3.0,Californian,112449
+589,4.0,San Francisco,1710.0,0.0,3.0,Contemporary American,112449
+590,3.9,San Francisco,55.0,0.0,3.0,Californian,112449
+591,4.2,San Francisco,1814.0,0.0,3.0,Contemporary American,112449
+592,4.4,San Francisco,82.0,0.0,2.0,Indian,112449
+593,4.2,San Francisco,1906.0,0.0,3.0,Italian,112449
+594,4.7,San Francisco,186.0,0.0,4.0,Japanese,112449
+595,4.2,San Francisco,2960.0,0.0,3.0,Seafood,112449
+596,4.5,San Francisco,1278.0,0.0,4.0,Asian,112449
+597,3.8,San Francisco,1457.0,0.0,2.0,American,112449
+598,4.5,San Francisco,239.0,0.0,3.0,International,112449
+599,4.7,San Francisco,1619.0,0.0,3.0,Contemporary American,112449
+600,4.2,San Francisco,537.0,0.0,3.0,Italian,112449
+601,3.7,San Francisco,404.0,0.0,3.0,Californian,112449
+602,4.2,San Francisco,5397.0,0.0,2.0,Italian,112449
+603,4.1,San Francisco,57.0,0.0,2.0,Vietnamese,112449
+604,4.3,San Francisco,279.0,0.0,3.0,Japanese,112449
+605,4.7,San Francisco,1450.0,0.0,3.0,Contemporary American,112449
+606,3.9,San Francisco,106.0,0.0,2.0,Italian,112449
+607,4.5,San Francisco,1125.0,0.0,3.0,Seafood,112449
+608,4.0,San Francisco,105.0,0.0,3.0,American,112449
+609,4.3,San Francisco,387.0,0.0,2.0,Sushi,112449
+610,4.4,San Francisco,160.0,0.0,3.0,Californian,112449
+611,4.1,San Francisco,1716.0,0.0,2.0,French,112449
+612,4.5,San Francisco,151.0,0.0,3.0,Californian,112449
+613,4.2,San Francisco,4230.0,0.0,2.0,French,112449
+614,4.4,San Francisco,204.0,0.0,2.0,French,112449
+615,4.2,San Francisco,1976.0,0.0,4.0,Californian,112449
+616,4.1,San Francisco,1017.0,0.0,2.0,American,112449
+617,4.5,San Francisco,1232.0,0.0,3.0,Seafood,112449
+618,4.3,San Francisco,283.0,0.0,2.0,Thai,112449
+619,4.3,San Francisco,967.0,0.0,2.0,Californian,112449
+620,4.4,San Francisco,55.0,0.0,2.0,American,112449
+621,4.4,San Francisco,2692.0,0.0,2.0,American,112449
+622,4.0,San Francisco,91.0,0.0,2.0,Dim Sum,112449
+623,4.6,San Francisco,644.0,0.0,3.0,Seafood,112449
+624,3.8,San Francisco,65.0,0.0,4.0,Chinese,112449
+625,4.6,San Francisco,413.0,0.0,2.0,American,112449
+626,4.1,San Francisco,6196.0,0.0,2.0,Italian,112449
+627,4.4,San Francisco,219.0,0.0,2.0,Italian,112449
+628,4.1,San Francisco,234.0,0.0,2.0,Contemporary American,112449
+629,4.4,San Francisco,2756.0,0.0,3.0,Italian,112449
+630,4.4,San Francisco,224.0,0.0,3.0,American,112449
+631,4.5,San Francisco,89.0,0.0,3.0,French,112449
+632,4.7,San Francisco,158.0,0.0,4.0,Italian,112449
+633,4.5,San Francisco,3036.0,0.0,2.0,Italian,112449
+634,3.9,San Francisco,123.0,0.0,2.0,Burgers,112449
+635,3.8,San Francisco,1417.0,0.0,2.0,American,112449
+636,4.4,San Francisco,1277.0,0.0,4.0,Indian,112449
+637,4.6,San Francisco,142.0,0.0,3.0,Japanese,112449
+638,4.5,San Francisco,2173.0,0.0,3.0,Scandinavian,112449
+639,4.6,San Francisco,871.0,0.0,3.0,Contemporary Indian,112449
+640,4.7,San Francisco,196.0,0.0,3.0,Tapas / Small Plates,112449
+641,3.9,San Francisco,129.0,0.0,2.0,Japanese,112449
+642,4.5,San Francisco,2227.0,0.0,4.0,French,112449
+643,4.4,San Francisco,165.0,0.0,2.0,American,112449
+644,4.1,San Francisco,465.0,0.0,2.0,Mexican,112449
+645,4.2,San Francisco,631.0,0.0,2.0,American,112449
+646,4.6,San Francisco,494.0,0.0,4.0,Californian,112449
+647,4.6,San Francisco,77.0,0.0,2.0,Middle Eastern,112449
+648,4.3,San Francisco,730.0,0.0,2.0,Brazilian,112449
+649,4.1,San Francisco,68.0,0.0,2.0,Moroccan,112449
+650,4.7,San Francisco,1734.0,0.0,3.0,Californian,112449
+651,3.3,San Francisco,85.0,0.0,2.0,American,112449
+652,4.8,San Francisco,78.0,0.0,4.0,Seafood,112449
+653,4.0,San Francisco,2356.0,0.0,2.0,American,112449
+654,3.7,San Francisco,383.0,0.0,3.0,Californian,112449
+655,3.9,San Francisco,2646.0,0.0,2.0,Southern,112449
+656,4.3,San Francisco,558.0,0.0,2.0,Thai,112449
+657,4.1,San Francisco,2929.0,0.0,2.0,Mexican / Southwestern,112449
+658,4.3,San Francisco,2094.0,0.0,4.0,Brazilian Steakhouse,112449
+659,4.3,San Francisco,117.0,0.0,3.0,Californian,112449
+660,4.4,San Francisco,932.0,0.0,3.0,Steakhouse,112449
+661,4.7,San Francisco,2434.0,0.0,4.0,Italian,112449
+662,3.7,San Francisco,843.0,0.0,2.0,American,112449
+663,4.2,San Francisco,718.0,0.0,2.0,Italian,112449
+664,4.1,San Francisco,239.0,0.0,2.0,Tapas / Small Plates,112449
+665,4.5,San Francisco,347.0,0.0,3.0,Sri Lankan,112449
+666,4.3,San Francisco,326.0,0.0,3.0,Fondue,112449
+667,3.8,San Francisco,546.0,0.0,2.0,Italian,112449
+668,4.2,San Francisco,1524.0,0.0,3.0,Steakhouse,112449
+669,3.9,San Francisco,214.0,0.0,2.0,American,112449
+670,4.4,San Francisco,77.0,0.0,2.0,Japanese,112449
+671,4.5,San Francisco,138.0,0.0,2.0,Wine Bar,112449
+672,4.6,San Francisco,1405.0,0.0,4.0,Contemporary American,112449
+673,4.2,San Francisco,119.0,0.0,3.0,American,112449
+674,4.2,San Francisco,829.0,0.0,3.0,Californian,112449
+675,4.3,San Francisco,95.0,0.0,3.0,Mediterranean,112449
+676,4.3,San Francisco,65.0,0.0,4.0,Contemporary American,112449
+677,4.0,San Francisco,635.0,0.0,2.0,Mexican,112449
+678,4.1,San Francisco,100.0,0.0,2.0,International,112449
+679,4.3,San Francisco,1200.0,0.0,2.0,Southern,112449
+680,4.1,San Francisco,392.0,0.0,4.0,Japanese,112449
+681,4.3,San Francisco,1477.0,0.0,2.0,Italian,112449
+682,3.5,San Francisco,177.0,0.0,3.0,Californian,112449
+683,4.0,San Francisco,178.0,0.0,2.0,Japanese,112449
+684,3.9,San Francisco,1032.0,0.0,2.0,Peruvian,112449
+685,4.4,San Francisco,752.0,0.0,3.0,American,112449
+686,4.2,San Francisco,85.0,0.0,3.0,Contemporary European,112449
+687,4.2,San Francisco,1150.0,0.0,4.0,Contemporary American,112449
+688,4.4,San Francisco,594.0,0.0,3.0,Seafood,112449
+689,4.5,San Francisco,133.0,0.0,4.0,Chinese,112449
+690,4.7,San Francisco,440.0,0.0,3.0,Italian,112449
+691,3.9,San Francisco,803.0,0.0,2.0,Spanish,112449
+692,4.7,San Francisco,2143.0,0.0,4.0,Californian,112449
+693,4.3,San Francisco,453.0,0.0,2.0,Sushi,112449
+694,4.7,San Francisco,1609.0,0.0,4.0,Contemporary American,112449
+695,4.8,San Francisco,60.0,0.0,4.0,Sushi,112449
+696,4.2,San Francisco,140.0,0.0,3.0,Afghan,112449
+697,4.0,San Francisco,82.0,0.0,2.0,Californian,112449
+698,4.7,San Francisco,378.0,0.0,4.0,Japanese,112449
+699,4.4,San Francisco,97.0,0.0,2.0,Mediterranean,112449
+700,4.5,San Francisco,174.0,0.0,2.0,Italian,112449
+701,3.9,San Francisco,293.0,0.0,2.0,Italian,112449
+702,4.1,San Francisco,445.0,0.0,3.0,Steakhouse,112449
+703,4.3,San Francisco,2353.0,0.0,3.0,French,112449
+704,3.7,San Francisco,193.0,0.0,2.0,American,112449
+705,4.1,San Francisco,159.0,0.0,2.0,Italian,112449
+706,4.5,San Francisco,389.0,0.0,2.0,Italian,112449
+707,4.1,San Francisco,385.0,0.0,2.0,Basque,112449
+708,4.8,San Francisco,200.0,0.0,4.0,Chinese,112449
+709,4.5,San Francisco,670.0,0.0,4.0,Modern European,112449
+710,3.7,San Francisco,304.0,0.0,2.0,Vegetarian / Vegan,112449
+711,4.6,San Francisco,530.0,0.0,3.0,Mexican,112449
+712,4.4,San Francisco,2643.0,0.0,2.0,Italian,112449
+713,3.9,San Francisco,293.0,0.0,2.0,Italian,112449
+714,4.1,San Francisco,445.0,0.0,3.0,Steakhouse,112449
+715,4.3,San Francisco,2353.0,0.0,3.0,French,112449
+716,3.7,San Francisco,193.0,0.0,2.0,American,112449
+717,4.1,San Francisco,159.0,0.0,2.0,Italian,112449
+718,4.5,San Francisco,389.0,0.0,2.0,Italian,112449
+719,4.1,San Francisco,385.0,0.0,2.0,Basque,112449
+720,4.8,San Francisco,200.0,0.0,4.0,Chinese,112449
+721,4.6,San Francisco,1226.0,0.0,3.0,Peruvian,112449
+722,4.9,San Francisco,7002.0,0.0,3.0,Mediterranean,112449
+723,4.7,San Francisco,6167.0,0.0,3.0,Peruvian,112449
+724,4.7,San Francisco,2321.0,0.0,4.0,Spanish,112449
+725,4.7,San Francisco,1210.0,0.0,2.0,Californian,112449
+726,4.6,San Francisco,3024.0,0.0,3.0,Seafood,112449
+727,4.6,San Francisco,79.0,0.0,2.0,Thai,112449
+728,4.1,San Francisco,3116.0,0.0,2.0,Seafood,112449
+729,4.1,San Francisco,462.0,0.0,2.0,American,112449
+730,4.4,San Francisco,549.0,0.0,2.0,Italian,112449
+731,4.4,San Francisco,951.0,0.0,2.0,Italian,112449
+732,4.8,San Francisco,7452.0,0.0,3.0,Californian,112449
+733,4.7,San Francisco,8401.0,0.0,3.0,Seafood,112449
+734,4.6,San Francisco,6032.0,0.0,4.0,Steakhouse,112449
+735,4.7,San Francisco,2907.0,0.0,4.0,Japanese,112449
+736,4.7,San Francisco,1993.0,0.0,3.0,Italian,112449
+737,4.8,San Francisco,3913.0,0.0,3.0,Contemporary American,112449
+738,4.7,San Francisco,9732.0,0.0,3.0,Vegetarian / Vegan,112449
+739,4.5,San Francisco,350.0,0.0,2.0,American,112449
+740,4.6,San Francisco,321.0,0.0,3.0,Chinese,112449
+741,4.8,San Francisco,2155.0,0.0,2.0,Argentinean,112449
+742,4.6,San Francisco,2585.0,0.0,2.0,French American,112449
+743,4.6,San Francisco,1819.0,0.0,2.0,American,112449
+744,4.7,San Francisco,4437.0,0.0,3.0,Italian,112449
+745,4.8,San Francisco,106.0,0.0,2.0,Sushi,112449
+746,4.6,San Francisco,758.0,0.0,3.0,Steakhouse,112449
+747,4.6,San Francisco,119.0,0.0,3.0,Contemporary American,112449
+748,4.4,San Francisco,4927.0,0.0,2.0,Seafood,112449
+749,4.8,San Francisco,453.0,0.0,2.0,American,112449
+750,4.8,San Francisco,1975.0,0.0,3.0,Italian,112449
+751,4.6,San Francisco,3750.0,0.0,3.0,American,112449
+752,4.7,San Francisco,1299.0,0.0,2.0,Italian,112449
+753,4.7,San Francisco,1133.0,0.0,3.0,Italian,112449
+754,4.8,San Francisco,834.0,0.0,2.0,Tapas / Small Plates,112449
+755,4.5,San Francisco,1164.0,0.0,2.0,Californian,112449
+756,4.0,San Francisco,2127.0,0.0,3.0,Dim Sum,112449
+757,4.6,San Francisco,1996.0,0.0,3.0,Californian,112449
+758,4.8,San Francisco,268.0,0.0,4.0,Sushi,112449
+759,4.7,San Francisco,1840.0,0.0,2.0,Italian,112449
+760,4.6,San Francisco,4283.0,0.0,3.0,Contemporary American,112449
+761,4.7,San Francisco,136.0,0.0,4.0,Japanese,112449
+762,4.7,San Francisco,245.0,0.0,2.0,Italian,112449
+763,4.6,San Francisco,3137.0,0.0,4.0,French,112449
+764,4.7,San Francisco,285.0,0.0,2.0,Greek,112449
+765,4.7,San Francisco,952.0,0.0,3.0,Turkish,112449
+766,4.7,San Francisco,283.0,0.0,2.0,Italian,112449
+767,4.7,San Francisco,2236.0,0.0,3.0,Seafood,112449
+768,4.6,San Francisco,1555.0,0.0,2.0,Seafood,112449
+769,4.8,San Francisco,2508.0,0.0,2.0,Italian,112449
+770,4.8,San Francisco,780.0,0.0,2.0,Italian,112449
+771,4.9,San Francisco,2284.0,0.0,3.0,American,112449
+772,4.9,San Francisco,925.0,0.0,2.0,Turkish,112449
+773,4.3,San Francisco,3102.0,0.0,3.0,Californian,112449
+774,4.8,San Francisco,112.0,0.0,2.0,Hungarian,112449
+775,4.2,San Francisco,118.0,0.0,3.0,Californian,112449
+776,4.8,San Francisco,266.0,0.0,2.0,Turkish,112449
+777,4.7,San Francisco,1046.0,0.0,2.0,Tapas / Small Plates,112449
+778,4.7,San Francisco,817.0,0.0,2.0,Italian,112449
+779,4.5,San Francisco,297.0,0.0,3.0,American,112449
+780,4.5,San Francisco,2202.0,0.0,2.0,French,112449
+781,4.3,San Francisco,214.0,0.0,2.0,Chinese,112449
+782,4.8,San Francisco,69.0,0.0,2.0,Contemporary Mexican,112449
+783,4.2,San Francisco,172.0,0.0,2.0,Latin American,112449
+784,4.8,San Francisco,760.0,0.0,3.0,Italian,112449
+785,4.2,San Francisco,63.0,0.0,2.0,Japanese,112449
+786,4.4,San Francisco,168.0,0.0,2.0,Russian,112449
+787,4.5,San Francisco,356.0,0.0,3.0,Italian,112449
+788,4.4,San Francisco,163.0,0.0,2.0,Iraqi,112449
+789,4.6,San Francisco,159.0,0.0,3.0,Thai,112449
+790,4.2,San Francisco,1197.0,0.0,3.0,Mediterranean,112449
+791,4.4,San Francisco,2441.0,0.0,3.0,Contemporary American,112449
+792,4.6,San Francisco,8264.0,0.0,4.0,American,112449
+793,4.3,San Francisco,1228.0,0.0,2.0,Indian,112449
+794,3.8,San Francisco,61.0,0.0,2.0,Indian,112449
+795,4.0,San Francisco,89.0,0.0,2.0,Indian,112449
+796,4.1,San Francisco,52.0,0.0,2.0,Japanese,112449
+797,4.2,San Francisco,883.0,0.0,2.0,Gastro Pub,112449
+798,4.1,San Francisco,1032.0,0.0,2.0,Seafood,112449
+799,4.1,San Francisco,1637.0,0.0,2.0,American,112449
+800,3.9,San Francisco,113.0,0.0,2.0,Contemporary American,112449
+801,3.9,San Francisco,222.0,0.0,2.0,Italian,112449
+802,4.0,San Francisco,57.0,0.0,2.0,Comfort Food,112449
+803,4.3,San Francisco,146.0,0.0,3.0,Californian,112449
+804,4.1,San Francisco,920.0,0.0,3.0,Seafood,112449
+805,4.4,San Francisco,123.0,0.0,2.0,Eastern European,112449
+806,4.5,San Francisco,85.0,0.0,2.0,American,112449
+807,4.2,San Francisco,808.0,0.0,2.0,Seafood,112449
+808,4.4,San Francisco,1446.0,0.0,2.0,French,112449
+809,4.6,San Francisco,425.0,0.0,2.0,Greek,112449
+810,4.5,San Francisco,277.0,0.0,3.0,Grill,112449
+811,4.6,San Francisco,189.0,0.0,2.0,American,112449
+812,3.9,San Francisco,122.0,0.0,2.0,Asian,112449
+813,4.0,San Francisco,1427.0,0.0,2.0,American,112449
+814,4.4,San Francisco,1062.0,0.0,3.0,European,112449
+815,4.2,San Francisco,1007.0,0.0,3.0,Japanese,112449
+816,4.5,San Francisco,2031.0,0.0,2.0,Italian,112449
+817,4.2,San Francisco,679.0,0.0,3.0,Basque,112449
+818,4.5,San Francisco,1302.0,0.0,3.0,Contemporary American,112449
+819,4.5,San Francisco,717.0,0.0,4.0,American,112449
+820,4.1,San Francisco,63.0,0.0,2.0,Italian,112449
+821,4.2,San Francisco,51.0,0.0,2.0,American,112449
+822,4.3,San Francisco,381.0,0.0,4.0,Mexican,112449
+823,4.1,San Francisco,122.0,0.0,2.0,Thai,112449
+824,4.7,San Francisco,1098.0,0.0,2.0,Californian,112449
+825,3.6,San Francisco,57.0,0.0,4.0,Californian,112449
+826,4.0,San Francisco,580.0,0.0,2.0,Italian,112449
+827,4.5,San Francisco,648.0,0.0,2.0,American,112449
+828,4.0,San Francisco,1649.0,0.0,2.0,Italian,112449
+829,4.5,San Francisco,165.0,0.0,2.0,Korean,112449
+830,4.3,San Francisco,182.0,0.0,2.0,Indian,112449
+831,4.7,San Francisco,61.0,0.0,2.0,Californian,112449
+832,4.1,San Francisco,923.0,0.0,3.0,American,112449
+833,4.6,San Francisco,324.0,0.0,2.0,American,112449
+834,3.9,San Francisco,417.0,0.0,2.0,Seafood,112449
+835,3.8,San Francisco,338.0,0.0,2.0,Seafood,112449
+836,4.2,San Francisco,122.0,0.0,2.0,American,112449
+837,4.5,San Francisco,164.0,0.0,2.0,Californian,112449
+838,4.4,San Francisco,190.0,0.0,2.0,Bavarian,112449
+839,4.4,San Francisco,2609.0,0.0,3.0,Seafood,112449
+840,4.2,San Francisco,2749.0,0.0,3.0,Seafood,112449
+841,4.2,San Francisco,2099.0,0.0,2.0,Seafood,112449
+842,4.5,San Francisco,56.0,0.0,3.0,American,112449
+843,4.0,San Francisco,370.0,0.0,2.0,Seafood,112449
+844,4.5,San Francisco,535.0,0.0,2.0,Mexican,112449
+845,4.6,San Francisco,1275.0,0.0,2.0,French,112449
+846,4.6,San Francisco,402.0,0.0,2.0,Fusion / Eclectic,112449
+847,4.3,San Francisco,54.0,0.0,2.0,Indian,112449
+848,4.1,San Francisco,50.0,0.0,2.0,French,112449
+849,3.6,San Francisco,155.0,0.0,2.0,Japanese,112449
+850,4.0,San Francisco,419.0,0.0,4.0,Seafood,112449
+851,3.9,San Francisco,786.0,0.0,2.0,Peruvian,112449
+852,4.2,San Francisco,364.0,0.0,2.0,Asian,112449
+853,4.4,San Francisco,1129.0,0.0,2.0,Tapas / Small Plates,112449
+854,3.9,San Francisco,307.0,0.0,2.0,American,112449
+855,4.3,San Francisco,1098.0,0.0,3.0,Italian,112449
+856,4.3,San Francisco,59.0,0.0,3.0,Californian,112449
+857,4.6,San Francisco,1311.0,0.0,2.0,Californian,112449
+858,4.2,San Francisco,94.0,0.0,2.0,Japanese,112449
+859,4.0,San Francisco,54.0,0.0,3.0,Japanese,112449
+860,4.5,San Francisco,1367.0,0.0,4.0,Contemporary American,112449
+861,4.1,San Francisco,477.0,0.0,3.0,Creole / Cajun / Southern,112449
+862,4.5,San Francisco,416.0,0.0,4.0,Japanese,112449
+863,4.1,San Francisco,576.0,0.0,2.0,Peruvian,112449
+864,4.0,San Francisco,104.0,0.0,2.0,Seafood,112449
+865,4.6,San Francisco,539.0,0.0,3.0,Californian,112449
+866,4.4,San Francisco,117.0,0.0,2.0,Seafood,112449
+867,4.3,San Francisco,3183.0,0.0,3.0,Californian,112449
+868,4.3,San Francisco,134.0,0.0,2.0,Mediterranean,112449
+869,4.3,San Francisco,470.0,0.0,2.0,Moroccan,112449
+870,4.5,San Francisco,208.0,0.0,3.0,Californian,112449
+871,4.5,San Francisco,427.0,0.0,3.0,Organic,112449
+872,3.7,San Francisco,2295.0,0.0,2.0,American,112449
+873,3.4,San Francisco,486.0,0.0,2.0,Californian,112449
+874,4.6,San Jose,556.0,0.0,2.0,Regional Mexican,109593
+875,4.4,San Jose,1264.0,0.0,2.0,Contemporary American,109593
+876,4.6,San Jose,1548.0,0.0,4.0,Steak,109593
+877,4.4,San Jose,2266.0,0.0,3.0,Seafood,109593
+878,4.5,San Jose,607.0,0.0,2.0,American,109593
+879,4.3,San Jose,187.0,0.0,2.0,Greek,109593
+880,4.2,San Jose,4158.0,0.0,2.0,French,109593
+881,4.5,San Jose,3192.0,0.0,3.0,American,109593
+882,4.5,San Jose,335.0,0.0,2.0,Barbecue,109593
+883,4.7,San Jose,461.0,0.0,3.0,Italian,109593
+884,4.4,San Jose,276.0,0.0,2.0,Mediterranean,109593
+885,4.2,San Jose,2373.0,0.0,3.0,Brazilian Steakhouse,109593
+886,4.0,San Jose,1017.0,0.0,2.0,Indian,109593
+887,4.2,San Jose,74.0,0.0,2.0,Mexican,109593
+888,4.1,San Jose,209.0,0.0,2.0,Mediterranean,109593
+889,4.3,San Jose,72.0,0.0,2.0,Italian,109593
+890,4.6,San Jose,2714.0,0.0,2.0,Steakhouse,109593
+891,4.2,San Jose,490.0,0.0,3.0,Brazilian Steakhouse,109593
+892,4.1,San Jose,1149.0,0.0,3.0,Greek,109593
+893,4.3,San Jose,713.0,0.0,2.0,Modern European,109593
+894,4.1,San Jose,52.0,0.0,2.0,Spanish,109593
+895,4.2,San Jose,51.0,0.0,2.0,Contemporary American,109593
+896,4.8,San Jose,1130.0,0.0,2.0,German,109593
+897,4.6,San Jose,3804.0,0.0,2.0,Italian,109593
+898,4.8,San Jose,315.0,0.0,3.0,Contemporary American,109593
+899,4.6,San Jose,155.0,0.0,2.0,Contemporary American,109593
+900,4.6,San Jose,1245.0,0.0,2.0,Italian,109593
+901,4.6,San Jose,708.0,0.0,2.0,Contemporary American,109593
+902,4.7,San Jose,139.0,0.0,2.0,American,109593
+903,4.3,San Jose,3613.0,0.0,2.0,American,109593
+904,4.3,San Jose,333.0,0.0,2.0,Tapas / Small Plates,109593
+905,3.9,San Jose,51.0,0.0,2.0,American,109593
+906,4.0,San Jose,414.0,0.0,3.0,Irish,109593
+907,4.4,San Jose,190.0,0.0,2.0,Contemporary American,109593
+908,4.3,San Jose,779.0,0.0,2.0,Japanese,109593
+909,4.4,San Jose,3015.0,0.0,2.0,Steakhouse,109593
+910,4.4,San Jose,1079.0,0.0,3.0,Steakhouse,109593
+911,4.5,San Jose,205.0,0.0,2.0,Tapas / Small Plates,109593
+912,4.4,San Jose,319.0,0.0,2.0,Contemporary Mexican,109593
+913,4.3,San Jose,488.0,0.0,2.0,American,109593
+914,4.1,San Jose,1527.0,0.0,3.0,Breakfast,109593
+915,4.3,San Jose,423.0,0.0,2.0,Mexican,109593
+916,4.1,San Jose,427.0,0.0,3.0,Cuban,109593
+917,4.5,San Jose,1162.0,0.0,3.0,Contemporary French / American,109593
+918,4.3,San Jose,683.0,0.0,2.0,Italian,109593
+919,4.0,San Jose,926.0,0.0,3.0,Steakhouse,109593
+920,3.9,San Jose,1731.0,0.0,2.0,Asian,109593
+921,4.0,San Jose,1475.0,0.0,2.0,Californian,109593
+922,4.0,San Jose,161.0,0.0,3.0,Japanese,109593
+923,4.2,San Jose,6889.0,0.0,2.0,Italian,109593
+924,4.0,San Jose,312.0,0.0,2.0,French,109593
+925,4.6,San Jose,590.0,0.0,3.0,French,109593
+926,4.2,San Jose,96.0,0.0,2.0,Middle Eastern,109593
+927,4.2,San Jose,266.0,0.0,2.0,Mediterranean,109593
+928,4.7,San Jose,700.0,0.0,4.0,French,109593
+929,4.8,San Leandro,183.0,0.0,2.0,Italian,78003
+930,4.6,San Leandro,209.0,0.0,3.0,"Global, International",78003
+931,4.3,San Leandro,64.0,0.0,2.0,American,78003
+932,4.4,San Leandro,3389.0,0.0,3.0,Seafood,78003
+933,4.0,San Leandro,292.0,0.0,3.0,Mexican,78003
+934,4.1,San Lorenzo,1846.0,0.0,2.0,Steakhouse,97286
+935,4.3,San Mateo,2505.0,0.0,2.0,American,124842
+936,4.5,San Mateo,1064.0,0.0,2.0,Seafood,124842
+937,4.5,San Mateo,79.0,0.0,2.0,Contemporary American,124842
+938,4.7,San Mateo,1135.0,0.0,2.0,American,124842
+939,4.6,San Mateo,63.0,0.0,2.0,American,124842
+940,4.1,San Mateo,87.0,0.0,2.0,Italian,124842
+941,4.8,San Mateo,1082.0,0.0,2.0,Italian,124842
+942,4.8,San Mateo,670.0,0.0,2.0,Italian,124842
+943,4.7,San Mateo,663.0,0.0,2.0,Italian,124842
+944,4.6,San Mateo,1219.0,0.0,3.0,Steakhouse,124842
+945,4.5,San Mateo,572.0,0.0,2.0,Japanese,124842
+946,4.7,San Mateo,135.0,0.0,2.0,French American,124842
+947,3.3,San Mateo,76.0,0.0,2.0,Farm-to-table,124842
+948,4.8,San Mateo,1109.0,0.0,3.0,Californian,124842
+949,4.7,San Mateo,635.0,0.0,3.0,Italian,124842
+950,4.6,San Mateo,159.0,0.0,3.0,Japanese,124842
+951,4.3,San Mateo,195.0,0.0,2.0,Seafood,124842
+952,4.4,San Mateo,1729.0,0.0,4.0,Brazilian Steakhouse,124842
+953,3.7,San Mateo,292.0,0.0,2.0,Indian,124842
+954,3.7,San Mateo,52.0,0.0,2.0,Indian,124842
+955,4.0,San Mateo,303.0,0.0,2.0,Pan-Asian,124842
+956,4.1,San Mateo,750.0,0.0,4.0,Contemporary American,124842
+957,4.2,San Mateo,160.0,0.0,2.0,Seafood,124842
+958,4.7,San Rafael,1113.0,0.0,2.0,Italian,91742
+959,4.5,San Rafael,893.0,0.0,3.0,Basque,91742
+960,3.9,San Rafael,443.0,0.0,2.0,American,91742
+961,4.3,San Rafael,888.0,0.0,3.0,Italian,91742
+962,4.5,San Rafael,56.0,0.0,2.0,Contemporary Asian,91742
+963,4.1,San Rafael,98.0,0.0,2.0,American,91742
+964,3.9,San Rafael,109.0,0.0,2.0,Italian,91742
+965,4.2,San Rafael,104.0,0.0,2.0,Gastro Pub,91742
+966,4.4,San Rafael,272.0,0.0,2.0,Latin American,91742
+967,4.3,San Ramon,898.0,0.0,2.0,Italian,160783
+968,4.5,San Ramon,784.0,0.0,3.0,Vietnamese,160783
+969,3.5,San Ramon,231.0,0.0,2.0,American,160783
+970,4.2,San Ramon,95.0,0.0,2.0,Californian,160783
+971,4.7,Santa Clara,67.0,0.0,2.0,Greek,126006
+972,4.6,Santa Clara,683.0,0.0,2.0,Contemporary Mexican,126006
+973,4.6,Santa Clara,3124.0,0.0,3.0,American,126006
+974,4.6,Santa Clara,69.0,0.0,2.0,Seafood,126006
+975,4.4,Santa Clara,1056.0,0.0,2.0,Italian,126006
+976,4.6,Santa Clara,1143.0,0.0,2.0,Italian,126006
+977,4.4,Santa Clara,107.0,0.0,2.0,Greek,126006
+978,4.4,Santa Clara,198.0,0.0,2.0,Indian,126006
+979,4.7,Santa Clara,553.0,0.0,3.0,Steak,126006
+980,4.4,Santa Clara,283.0,0.0,3.0,Steakhouse,126006
+981,4.2,Santa Clara,404.0,0.0,2.0,American,126006
+982,4.1,Santa Clara,102.0,0.0,2.0,Italian,126006
+983,4.1,Santa Clara,140.0,0.0,3.0,Japanese,126006
+984,4.6,Saratoga,1462.0,0.0,2.0,Italian,191677
+985,4.2,Saratoga,267.0,0.0,2.0,Peruvian,191677
+986,4.9,Saratoga,1000.0,0.0,3.0,American,191677
+987,4.8,Saratoga,196.0,0.0,3.0,American,191677
+988,4.8,Saratoga,2177.0,0.0,4.0,Californian,191677
+989,4.2,Saratoga,4835.0,0.0,3.0,French,191677
+990,3.6,Saratoga,360.0,0.0,3.0,French,191677
+991,4.4,Saratoga,1986.0,0.0,2.0,American,191677
+992,4.1,Saratoga,598.0,0.0,4.0,Californian,191677
+993,4.5,Sausalito,2227.0,0.0,2.0,Seafood,111906
+994,4.7,Sausalito,4743.0,0.0,3.0,Italian,111906
+995,4.4,Sausalito,4355.0,0.0,3.0,Seafood,111906
+996,4.4,Sausalito,1914.0,0.0,3.0,Seafood,111906
+997,4.8,Sausalito,1717.0,0.0,3.0,Sushi,111906
+998,4.1,Sausalito,935.0,0.0,2.0,Seafood,111906
+999,4.8,Sausalito,1361.0,0.0,3.0,Seafood,111906
+1000,4.5,Sausalito,637.0,0.0,3.0,Californian,111906
+1001,4.7,Sausalito,817.0,0.0,2.0,Italian,111906
+1002,4.5,Sausalito,4046.0,0.0,3.0,Californian,111906
+1003,4.5,Sausalito,212.0,0.0,2.0,Italian,111906
+1004,4.0,Sausalito,303.0,0.0,2.0,French,111906
+1005,4.0,Sausalito,153.0,0.0,2.0,Mexican,111906
+1006,4.2,Sausalito,1019.0,0.0,2.0,French,111906
+1007,4.0,Sausalito,55.0,0.0,2.0,Mexican,111906
+1008,4.4,South San Francisco,100.0,0.0,3.0,Mexican,105459
+1009,4.8,South San Francisco,320.0,0.0,2.0,Mediterranean,105459
+1010,4.2,South San Francisco,240.0,0.0,2.0,Italian,105459
+1011,4.0,South San Francisco,119.0,0.0,2.0,Italian,105459
+1012,4.2,South San Francisco,975.0,0.0,2.0,Italian,105459
+1013,4.2,South San Francisco,975.0,0.0,2.0,Italian,105459
+1014,4.4,Sunnyvale,116.0,0.0,2.0,Seafood,140631
+1015,4.7,Sunnyvale,125.0,0.0,2.0,Middle Eastern,140631
+1016,4.6,Sunnyvale,102.0,0.0,3.0,Turkish,140631
+1017,4.2,Sunnyvale,93.0,0.0,2.0,Contemporary British,140631
+1018,4.0,Sunnyvale,76.0,0.0,2.0,Asian,140631
+1019,4.0,Sunnyvale,62.0,0.0,2.0,Contemporary Indian,140631
+1020,4.3,Sunnyvale,98.0,0.0,2.0,Italian,140631
+1021,4.7,Tiburon,1514.0,0.0,3.0,Italian,154915
+1022,3.8,Tiburon,330.0,0.0,2.0,Mexican,154915
+1023,4.3,Tiburon,79.0,0.0,2.0,Chinese,154915
+1024,4.3,Tiburon,1769.0,0.0,3.0,American,154915
+1025,4.1,Union City,66.0,0.0,3.0,Mexican,114681
+1026,4.6,Vallejo,54.0,0.0,3.0,Mexican,69405
+1027,4.1,Vallejo,983.0,0.0,2.0,Steakhouse,69405
+1028,4.5,Walnut Creek,2273.0,0.0,4.0,Spanish,105948
+1029,4.6,Walnut Creek,2242.0,0.0,2.0,American,105948
+1030,4.6,Walnut Creek,390.0,0.0,2.0,Barbecue,105948
+1031,4.5,Walnut Creek,815.0,0.0,2.0,Seafood,105948
+1032,4.4,Walnut Creek,3756.0,0.0,2.0,Italian,105948
+1033,4.7,Walnut Creek,192.0,0.0,3.0,Brazilian Steakhouse,105948
+1034,4.3,Walnut Creek,101.0,0.0,4.0,Greek,105948
+1035,4.6,Walnut Creek,1080.0,0.0,3.0,Peruvian,105948
+1036,4.2,Walnut Creek,787.0,0.0,3.0,Californian,105948
+1037,4.7,Walnut Creek,1796.0,0.0,3.0,Japanese,105948
+1038,4.6,Walnut Creek,2753.0,0.0,4.0,Steakhouse,105948
+1039,4.9,Walnut Creek,945.0,0.0,3.0,Italian,105948
+1040,4.7,Walnut Creek,2155.0,0.0,3.0,Steak,105948
+1041,4.3,Walnut Creek,518.0,0.0,2.0,Italian,105948
+1042,4.5,Walnut Creek,634.0,0.0,3.0,French,105948
+1043,4.7,Walnut Creek,997.0,0.0,2.0,Vietnamese,105948
+1044,4.8,Walnut Creek,109.0,0.0,4.0,Winery,105948
+1045,3.8,Walnut Creek,159.0,0.0,2.0,Asian,105948
+1046,3.8,Walnut Creek,94.0,0.0,3.0,Italian,105948
+1047,4.4,Walnut Creek,902.0,0.0,2.0,Peruvian,105948
+1048,4.0,Walnut Creek,189.0,0.0,2.0,Mediterranean,105948
+1049,4.7,Walnut Creek,228.0,0.0,2.0,Russian,105948
+1050,4.5,Walnut Creek,224.0,0.0,2.0,American,105948
+1051,4.4,Walnut Creek,2918.0,0.0,2.0,Tapas / Small Plates,105948
+1052,4.6,Walnut Creek,538.0,0.0,2.0,Contemporary American,105948
+1053,3.5,Walnut Creek,97.0,0.0,2.0,Brewery,105948
+1054,4.3,Walnut Creek,132.0,0.0,2.0,Californian,105948
+1055,4.2,Walnut Creek,1597.0,0.0,3.0,Seafood,105948
+1056,4.5,Walnut Creek,540.0,0.0,2.0,Mediterranean,105948
+1057,4.1,Walnut Creek,212.0,0.0,2.0,Gastro Pub,105948
+1058,4.2,Walnut Creek,140.0,0.0,2.0,Cuban,105948
+1059,4.1,Walnut Creek,724.0,0.0,3.0,Italian,105948
+1060,4.4,Walnut Creek,547.0,0.0,2.0,Italian,105948
+1061,4.0,Walnut Creek,546.0,0.0,3.0,Vietnamese,105948
+1062,3.7,Walnut Creek,77.0,0.0,2.0,Sushi,105948
+1063,4.5,Walnut Creek,736.0,0.0,2.0,Italian,105948
+1064,4.2,Walnut Creek,296.0,0.0,2.0,Italian,105948
+1065,4.7,Woodside,611.0,1.0,2.0,American,250001
+1066,4.8,Woodside,2970.0,0.0,3.0,American,250001
+1067,4.3,Woodside,301.0,0.0,3.0,American,250001
+1068,3.7,Woodside,382.0,0.0,2.0,Californian,250001
+1069,4.5,Woodside,1397.0,0.0,2.0,American,250001
