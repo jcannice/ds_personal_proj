@@ -101,7 +101,7 @@ prediction = model.predict(np.nan_to_num(input_df.astype(np.float32)))
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.header('Model prediction for restaurant star rating')
-st.write(prediction[0])
+st.write(prediction[0], 'stars! Delicious!')
 st.write('---')
 
 # TODO: sum onehotencoded
