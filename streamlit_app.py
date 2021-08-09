@@ -80,7 +80,7 @@ input_df = user_input()
 
 # Print input parameters
 st.header('Model Input Parameters')
-st.write(input_df)
+st.write(input_df.head(1))
 
 st.write('---')
 
@@ -97,8 +97,11 @@ model = load_model()
 # run prediction
 prediction = model.predict(np.nan_to_num(input_df.astype(np.float32)))
 
+# remove deprecation notice
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 st.header('Model prediction for restaurant star rating')
-st.write(prediction)
+st.write(prediction[0])
 st.write('---')
 
 # TODO: sum onehotencoded
